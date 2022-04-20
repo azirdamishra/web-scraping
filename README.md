@@ -1,2 +1,2 @@
 # web-scraping
-Practice place for web scraping stuff
+Having fun scraping off the internet
